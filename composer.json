@@ -1,0 +1,26 @@
+{
+    "name": "mdurrant/php-console-color",
+    "authors": [
+        {
+            "name": "Matt Durrant",
+            "email": "mdurrant@gmail.com"
+        }
+    ],
+    "description": "Extremely simple library for writing to the console in color",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "PhpConsoleColor\\": [
+                "src/"
+            ]
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
