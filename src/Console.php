@@ -74,6 +74,6 @@ class Console
      */
     public function writeLn($str = null)
     {
-        $this->write("\n" . $str);
+        $this->write($str . "\n");
     }
 }
