@@ -5,7 +5,7 @@ This lightweight library only serves to make formatted console output code more 
 
 Instead of:
 ```php
-echo "\033[0;31Foo:\031[0m Bar";
+echo "\033[0;31Foo:\033[0m Bar";
 ```
 We can do:
 ```php
