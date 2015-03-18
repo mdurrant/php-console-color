@@ -25,5 +25,34 @@ will output
 
 ![Example output](http://i.imgur.com/jmJe8vu.png)
 
+####Colors
+
+| Color Code | Info              |
+|------------|-------------------|
+| black      | Black             |
+| red        | Red               |
+| green      | Green             |
+| yellow     | Yellow            |
+| blue       | Blue              |
+| purple     | Purple            |
+| cyan       | Cyan              |
+| white      | White             |
+| blackB     | Black Bold        |
+| redB       | Red Bold          |
+| greenB     | Black Bold        |
+| yellowB    | Yellow Bold       |
+| blueB      | Blue Bold         |
+| purpleB    | Purple Bold       |
+| cyanB      | Cyan Bold         |
+| whiteB     | White Bold        |
+| blackU     | Black Underlined  |
+| redU       | Red Underlined    |
+| greenU     | Black Underlined  |
+| yellowU    | Yellow Underlined |
+| blueU      | Blue Underlined   |
+| purpleU    | Purple Underlined |
+| cyanU      | Cyan Underlined   |
+| whiteU     | White Underlined  |
+
 ####License
 MIT
