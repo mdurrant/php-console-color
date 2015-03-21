@@ -18,7 +18,7 @@ $console = new Console();
 $console->write('This');
 $console->write('is');
 $console->write('a');
-$console->write('<blue>Test</blue>');
+$console->writeLn('<blue>Test</blue>');
 $console->writeLn('Hello world!');
 ```
 will output
